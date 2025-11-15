@@ -1,4 +1,4 @@
-module github.com/hugo-themes/toha-example-site
+module github.com/BackbeatNeilson/louisneilson
 
 go 1.25
 
