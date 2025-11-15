@@ -1,5 +1,5 @@
 ---
-title: Top Category Sample
+title: Theme Exemplars
 menu:
   sidebar:
     name: Category
