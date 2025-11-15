@@ -11,16 +11,16 @@ section:
 # Your experiences
 experiences:
 - company:
-    name: Freelance Learning Designer
+    name: University of Cape Town – Nelson Mandela School of Public Governance
     url: "https://cilt.uct.ac.za/"
     location: Remote
-    # logo: /images/sections/experiences/company1.jpg
+    logo: https://commerce.uct.ac.za/sites/default/files/uct_ac_za/the_mandela_school_logo_rgb.png
     # Can optionally show a different logo for dark theme
     # darkLogo: /images/sections/experiences/company1.jpg
     # company overview
     # overview: Company description goes here
   positions:
-  - designation: University of Cape Town – Nelson Mandela School of Public Governance
+  - designation: Learning Consultant
     start: Nov 2024
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: Dec 2020
@@ -28,26 +28,18 @@ experiences:
     responsibilities:
     - Built executive-education courses on D2L Brightspace (Amathuba) based on storyboards from academic leads, developing custom HTML/CSS styling and JavaScript-based interactive elements
     - Applied Universal Design for Learning principles and ensured WCAG 2.0 A accessibility compliance under fixed hourly constraints
-    
+
 - company:
-    name: Freelance Learning Designer
+    name: University of Cape Town – Centre for Innovation in Learning & Teaching (CILT) / Disability Service
     url: "https://cilt.uct.ac.za/"
     location: Remote
-    # logo: /images/sections/experiences/company1.jpg
+    logo: https://cilt.uct.ac.za/sites/default/files/uct_ac_za/cilt-solo-logo-hor-multi-rgb.png
     # Can optionally show a different logo for dark theme
     # darkLogo: /images/sections/experiences/company1.jpg
     # company overview
     # overview: Company description goes here
   positions:
-  - designation: University of Cape Town – Nelson Mandela School of Public Governance
-    start: Nov 2024
-    # don't provide end date if you are currently working there. It will be replaced by "Present"
-    # end: Dec 2020
-    # give some points about what was your responsibilities at the company.
-    responsibilities:
-    - Built executive-education courses on D2L Brightspace (Amathuba) based on storyboards from academic leads, developing custom HTML/CSS styling and JavaScript-based interactive elements
-    - Applied Universal Design for Learning principles and ensured WCAG 2.0 A accessibility compliance under fixed hourly constraints
-  - designation: University of Cape Town – Centre for Innovation in Learning & Teaching (CILT) / Disability Service
+  - designation: Freelance Learning Designer
     start: Oct 2023
     end: May 2024
     responsibilities:

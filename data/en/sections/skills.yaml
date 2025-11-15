@@ -40,7 +40,7 @@ skills:
 
   - name: Design & Media
     icon: fas fa-palette
-    summary: "Graphic design, video editing, and multimedia production"
+    summary: "Audio & music production, and multimedia production"
     categories: ["technical"]
     details:
       - Pro Tools
@@ -116,7 +116,7 @@ skills:
     icon: fas fa-chalkboard-teacher
     summary: "One-to-one tutoring in academic writing and psychological statistics"
     categories: ["professional"]
-    
+
   - name: Technical Communication
     icon: fas fa-comments
     summary: "Explaining complex concepts to non-experts"
