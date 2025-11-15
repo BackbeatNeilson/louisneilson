@@ -1,21 +1,21 @@
 # some information about you
-name: "John Doe"
-nickname: "John"
+name: "Louis Neilson"
+# nickname: "Louis"
 # greeting message before your name. it will default to "Hi! I am" if not provided
 greeting: "Hi, I am"
-image: "images/author/john.png"
+image: "images/author/louis.png"
 # give your some contact information. they will be used in the footer
 contactInfo:
-  email: "johndoe@example.com"
-  phone: "+0123456789"
-  github: johndoe
-  linkedin: johndoe
-  researchgate: john-doe
+  email: "hello@louisneilson.com"
+  # phone: "+0123456789"
+  github: BackbeatNeilson
+  linkedin: louis-neilson
+  # researchgate: louis-neilson
 
 # some summary about what you do
 summary:
-  - I am a Developer
-  - I am a Devops
-  - I love servers
-  - I work on open-source projects
-  - I love to work with some fun projects
+  - Multidisciplinary Educator & Learning Designer
+  - I design and build digital learning experiences for higher and adult education
+  - I transform complex content into accessible learning experiences
+  - I align learning design with Universal Design for Learning and WCAG-aligned accessibility standards
+  - My current honours research investigates the relationship between AI tool usage and self-efficacy among tertiary students with ADHD

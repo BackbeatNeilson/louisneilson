@@ -1,7 +1,6 @@
 # ⚠️ If hosting under a repo path, use full URL (e.g. https://<github_username>.github.io/<repo_name>) or images won’t display correctly
 baseURL: louisneilson.com
-
-languageCode: bn
+languageCode: en
 title: "Louis Neilson's Portfolio"
 
 # Use Hugo modules to add theme
@@ -27,9 +26,9 @@ languages:
     title: "Louis Neilson's Portfolio"
     weight: 1
   bn:
-    languageCode: bn
-    languageName: বাংলা
-    title: লুই নীলসনের পোর্টফোলিও
+    languageCode: af
+    languageName: Afrikaans
+    title: "Louis Neilson se Portefeulje"
     weight: 2
 # default language for the content
 defaultContentLanguage: en
