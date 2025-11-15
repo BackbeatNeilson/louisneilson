@@ -79,7 +79,7 @@
                   {{ $sectionID = .section.id }}
                 {{ end }}
                 <li class="nav-item">
-                  <a class="smooth-scroll" href="{{ "" | absLangURL }}#{{ $sectionID }}">{{ .section.name }}</a>
+                  <a class="smooth-scroll" href="#{{ $sectionID }}">{{ .section.name }}</a>
                 </li>
               {{ end }}
             {{- end }}
@@ -87,7 +87,7 @@
               {{ range $customMenus }}
                 {{ if .showOnFooter }}
                     <li class="nav-item">
-                      <a class="smooth-scroll" href="#{{ $sectionID }}">{{ .section.name }}</a>
+                      <a class="smooth-scroll" href="{{ .url }}">{{ .name }}</a>
                     </li>
                 {{ end }}
               {{ end }}
