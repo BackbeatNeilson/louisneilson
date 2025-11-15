@@ -1,4 +1,3 @@
-# section information
 section:
   name: Skills
   id: skills
@@ -6,65 +5,149 @@ section:
   weight: 2
   showOnNavbar: true
   filter: true
-  # Can optionally hide the title in sections
-  # hideTitle: true
 
-# filter buttons
 buttons:
-- name: All
-  filter: "all"
-- name: LMS
-  filter: "lms"
-- name: Design
-  filter: "design"
-- name: Development
-  filter: "development"
-- name: Analysis
-  filter: "analysis"
+  - name: All
+    filter: "all"
+  - name: Technical
+    filter: "technical"
+  - name: Academic
+    filter: "academic"
+  - name: Professional
+    filter: "professional"
 
-# Your Skills.
-# Give a summary of you each skill in the summary section.
 skills:
-- name: LMS & VLE Platforms
-  icon: fas fa-chalkboard-teacher
-  summary: "Learning management and virtual learning environment expertise"
-  categories: ["lms"]
-  # logo: /images/sections/skills/lms.png
-  # url: "https://example.com/"
+  # Technical Skills
+  - name: LMS & VLE Platforms
+    icon: fas fa-chalkboard-teacher
+    summary: "Learning management and virtual learning environment expertise"
+    categories: ["technical"]
+    details:
+      - Moodle
+      - D2L Brightspace (Amathuba)
+      - CanvasLMS
+      - Sakai
+      - FutureLearn
 
-- name: Authoring Tools
-  icon: fas fa-pencil-ruler
-  summary: "E-learning content creation and course development"
-  categories: ["design"]
-  # logo: /images/sections/skills/articulate.png
+  - name: Authoring Tools
+    icon: fas fa-pencil-ruler
+    summary: "E-learning content creation and course development"
+    categories: ["technical"]
+    details:
+      - Articulate Rise
+      - Articulate Storyline
+      - Canva
 
-- name: Design & Media
-  icon: fas fa-palette
-  summary: "Graphic design, video editing, and multimedia production"
-  categories: ["design"]
-  # logo: /images/sections/skills/design.png
+  - name: Design & Media
+    icon: fas fa-palette
+    summary: "Graphic design, video editing, and multimedia production"
+    categories: ["technical"]
+    details:
+      - Pro Tools
+      - Audacity
+      - Logic Pro X
+      - Studio One
+      - Ableton
+      - Adobe Photoshop
+      - DaVinci Resolve
+      - OBS Studio
 
-- name: Web Development
-  icon: fas fa-code
-  summary: "Front-end development and markup languages"
-  categories: ["development"]
-  # logo: /images/sections/skills/webdev.svg
-  # url: "https://developer.mozilla.org/"
+  - name: Web Development
+    icon: fas fa-code
+    summary: "Front-end development and markup languages"
+    categories: ["technical"]
+    details:
+      - HTML
+      - CSS
+      - JavaScript
+      - Markdown
+      - LaTeX
 
-- name: Development Tools
-  icon: fas fa-tools
-  summary: "Version control and development environments"
-  categories: ["development"]
-  # logo: /images/sections/skills/devtools.png
+  - name: Development Tools
+    icon: fas fa-tools
+    summary: "Version control and development environments"
+    categories: ["technical"]
+    details:
+      - GitHub
+      - VS Code
+      - RStudio
 
-- name: Data & Analysis
-  icon: fas fa-chart-bar
-  summary: "Statistical analysis and data science tools"
-  categories: ["analysis"]
-  # logo: /images/sections/skills/data.png
+  - name: Data & Analysis Tools
+    icon: fas fa-chart-bar
+    summary: "Statistical analysis and data science tools"
+    categories: ["technical"]
+    details:
+      - R
+      - Python
+      - Excel
 
-- name: Productivity Suites
-  icon: fas fa-briefcase
-  summary: "Office productivity and collaboration platforms"
-  categories: ["all"]
-  # logo: /images/sections/skills/productivity.png
+  - name: Productivity Suites
+    icon: fas fa-briefcase
+    summary: "Office productivity and collaboration platforms"
+    categories: ["technical"]
+    details:
+      - Microsoft 365
+      - Google Workspace
+      - LibreOffice
+
+  # Academic Skills
+  - name: Academic Writing & Editing (APA 7th ed.)
+    icon: fas fa-pen-fancy
+    summary: "Formal academic writing and editing"
+    categories: ["academic"]
+
+  - name: Data Interpretation & Synthesis
+    icon: fas fa-chart-line
+    summary: "Quantitative and qualitative analysis for research contexts"
+    categories: ["academic"]
+
+  - name: Scoping & Literature Review
+    icon: fas fa-book
+    summary: "Identifying gaps and synthesizing scholarly sources; Combining multiple sources into coherent theoretical arguments"
+    categories: ["academic"]
+
+  - name: Methodological Reasoning
+    icon: fas fa-project-diagram
+    summary: "Foregrounding ecological validity in research design and evaluative critique"
+    categories: ["academic"]
+
+  # Professional / Interpersonal Skills
+  - name: Teaching & Training
+    icon: fas fa-chalkboard-teacher
+    summary: "One-to-one tutoring in academic writing and psychological statistics"
+    categories: ["professional"]
+    
+  - name: Technical Communication
+    icon: fas fa-comments
+    summary: "Explaining complex concepts to non-experts"
+    categories: ["professional"]
+
+  - name: Teaching & Training
+    icon: fas fa-chalkboard-teacher
+    summary: "Instructional delivery and learner support"
+    categories: ["professional"]
+
+  - name: Quality Control & Editing
+    icon: fas fa-check-double
+    summary: "High-precision review and accessibility compliance"
+    categories: ["professional"]
+
+  - name: Cross-Cultural Communication
+    icon: fas fa-globe
+    summary: "Effective communication across diverse cultural contexts"
+    categories: ["professional"]
+
+  - name: Project Coordination
+    icon: fas fa-tasks
+    summary: "Managing timelines, deliverables, and multi-stakeholder work"
+    categories: ["professional"]
+
+  - name: Problem-Solving
+    icon: fas fa-lightbulb
+    summary: "Systematic troubleshooting and creative solutions"
+    categories: ["professional"]
+
+  - name: Adaptability
+    icon: fas fa-sync-alt
+    summary: "Flexibility across tools, platforms, and methodologies"
+    categories: ["professional"]

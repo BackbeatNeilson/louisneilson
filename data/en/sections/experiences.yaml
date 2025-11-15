@@ -11,8 +11,8 @@ section:
 # Your experiences
 experiences:
 - company:
-    name: University of Cape Town – Nelson Mandela School of Public Governance
-    url: ""
+    name: Freelance Learning Designer
+    url: "https://cilt.uct.ac.za/"
     location: Remote
     # logo: /images/sections/experiences/company1.jpg
     # Can optionally show a different logo for dark theme
@@ -20,7 +20,7 @@ experiences:
     # company overview
     # overview: Company description goes here
   positions:
-  - designation: Freelance Learning Designer
+  - designation: University of Cape Town – Nelson Mandela School of Public Governance
     start: Nov 2024
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: Dec 2020
@@ -28,32 +28,41 @@ experiences:
     responsibilities:
     - Built executive-education courses on D2L Brightspace (Amathuba) based on storyboards from academic leads, developing custom HTML/CSS styling and JavaScript-based interactive elements
     - Applied Universal Design for Learning principles and ensured WCAG 2.0 A accessibility compliance under fixed hourly constraints
-
+    
 - company:
-    name: University of Cape Town – Centre for Innovation in Learning & Teaching (CILT) / Disability Service
-    url: ""
+    name: Freelance Learning Designer
+    url: "https://cilt.uct.ac.za/"
     location: Remote
-    # logo: /images/sections/experiences/company2.jpg
+    # logo: /images/sections/experiences/company1.jpg
     # Can optionally show a different logo for dark theme
-    # darkLogo: /images/sections/experiences/company2.jpg
+    # darkLogo: /images/sections/experiences/company1.jpg
+    # company overview
     # overview: Company description goes here
   positions:
-  - designation: Freelance Learning Designer & Accessibility Consultant
+  - designation: University of Cape Town – Nelson Mandela School of Public Governance
+    start: Nov 2024
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Built executive-education courses on D2L Brightspace (Amathuba) based on storyboards from academic leads, developing custom HTML/CSS styling and JavaScript-based interactive elements
+    - Applied Universal Design for Learning principles and ensured WCAG 2.0 A accessibility compliance under fixed hourly constraints
+  - designation: University of Cape Town – Centre for Innovation in Learning & Teaching (CILT) / Disability Service
     start: Oct 2023
     end: May 2024
     responsibilities:
     - Transformed a two-day, in-person Disability Awareness workshop into a six-module asynchronous e-learning course using Articulate Rise, collaborating with six subject-matter experts to structure unorganised content
     - Performed editing, copywriting, content flow design, interaction scripting, image and media creation (GIFs, infographics), and layout planning while ensuring WCAG 2.0 AA compliance
-    - Developed question logic, UX structure, visual hierarchy, and learning outcomes
+    - Developed assessments, UX structure, visual hierarchy, and learning outcomes
 
 - company:
     name: Construct Education (now part of OES)
-    url: ""
-    location: Remote
-    # logo: /images/sections/experiences/company3.jpg
+    url: "https://constructeducation.com/"
+    location: Cape Town, South Africa
+    logo: https://constructeducation.com/wp-content/uploads/2021/05/construct-education-powered-by-oes-site-logo.png.png
     # Can optionally show a different logo for dark theme
     # darkLogo: /images/sections/experiences/company3.jpg
-    # overview: Company description goes here
+    overview: Construct build beautiful, engaging, and innovative digital learning experiences
   positions:
   - designation: Learning Designer
     start: Nov 2020
@@ -65,32 +74,53 @@ experiences:
 
 - company:
     name: Academy of Sound Engineering
-    url: ""
+    url: "https://ase.co.za/"
     location: Cape Town, South Africa
-    # logo: /images/sections/experiences/company4.jpg
+    logo: https://ase.co.za/ASE_WEBSITE/wp-content/uploads/2023/11/logo-ase-white-full-colour.png
     # Can optionally show a different logo for dark theme
     # darkLogo: /images/sections/experiences/company4.jpg
-    # overview: Company description goes here
+    overview: Academy of Sound Engineering is an accredited audio and music production Higher Education institute, offering qualifications in audio technology, sound engineering, music production, live sound, broadcast, and the business of music and entertainment. 
   positions:
-  - designation: Lecturer | Facilities & Intern Supervisor
+  - designation: Lecturer
     start: Jan 2018
     end: Oct 2020
     responsibilities:
-    - Lectured undergraduate courses in sound engineering, music production, and academic writing while developing campus scheduling systems and updating policy documentation
-    - Mentored staff in implementation of new academic and operational protocols; supervised infrastructure maintenance and intern training
+    - Lectured undergraduate courses in sound engineering, music theory and production, and academic writing while developing and updating policy documentation
+    - Mentored staff in implementation of new academic and operational protocols;
+  - designation: Facilities & Intern Supervisor
+    start: Apr 2017
+    end: Jan 2018
+    responsibilities:
+    - developed campus scheduling systems and updating policy documentation
+    - Mentored staff in implementation of new operational protocols
+    - supervised infrastructure maintenance and intern training
 
 - company:
+    name: Metisware
+    url: "https://metisware.com/"
+    location: Cape Town, South Africa / Remote
+    logo: https://metisware.com/wp-content/uploads/2021/01/Metisware-Logo.png
+    # Can optionally show a different logo for dark theme
+    # darkLogo: /images/sections/experiences/company5.jpg
+    # overview: Company description goes here
+  positions:
+  - designation: System Support Engineer
+    start: 2014
+    end: 2016
+    responsibilities:
+    - Emergency after-hours IT support for UCT GSB and partners including Protea Hotel Waterfront Breakwater Lodge
+- company:
     name: UCT Graduate School of Business | Metisware
-    url: ""
+    url: "https://www.gsb.uct.ac.za/"
     location: Cape Town, South Africa
     # logo: /images/sections/experiences/company5.jpg
     # Can optionally show a different logo for dark theme
     # darkLogo: /images/sections/experiences/company5.jpg
     # overview: Company description goes here
   positions:
-  - designation: System Support Engineer | Junior System Developer
+  - designation: Junior System Developer
     start: 2012
-    end: 2016
+    end: 2014
     responsibilities:
     - Maintained learner-management systems and built internal tech tools; rolled out VoIP system (Microsoft Lync) and developed lecture capture workflows
     - Assisted in fault-finding, staff onboarding, and digital platform transitions

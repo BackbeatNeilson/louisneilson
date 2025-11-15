@@ -48,77 +48,7 @@ resourceLinks:
 # Show your badges
 # You can show your verifiable certificates from https://www.credly.com.
 # You can also show a circular bar indicating the level of expertise on a certain skill
-badges:
-- type: soft-skill-indicator
-  name: Academic Writing and Editing (APA 7th ed.)
-  percentage: 94
-  color: "#003049"
-
-- type: soft-skill-indicator
-  name: Data Interpretation and Synthesis
-  percentage: 92
-  color: "#274060"
-
-- type: soft-skill-indicator
-  name: Technical Communication
-  percentage: 90
-  color: "#38618C"
-
-- type: soft-skill-indicator
-  name: Teaching and Training
-  percentage: 90
-  color: "#4C956C"
-
-- type: soft-skill-indicator
-  name: Team Collaboration
-  percentage: 86
-  color: "#577590"
-
-- type: soft-skill-indicator
-  name: Problem-Solving
-  percentage: 89
-  color: "#415A77"
-
-- type: soft-skill-indicator
-  name: Cross-Cultural Communication
-  percentage: 91
-  color: "#9D0208"
-
-- type: soft-skill-indicator
-  name: Project Coordination
-  percentage: 85
-  color: "#7E9181"
-
-- type: soft-skill-indicator
-  name: Attention to Detail
-  percentage: 93
-  color: "#2B2D42"
-
-- type: soft-skill-indicator
-  name: Adaptability
-  percentage: 88
-  color: "#3E6B48"
-
-- type: soft-skill-indicator
-  name: Time Management
-  percentage: 78
-  color: "#946E83"
-
-- type: soft-skill-indicator
-  name: Conflict Navigation
-  percentage: 84
-  color: "#7C6A0A"
-
-- type: soft-skill-indicator
-  name: User-Centred Design Thinking
-  percentage: 91
-  color: "#005F73"
-
-- type: soft-skill-indicator
-  name: High-Precision Editing and Quality Control
-  percentage: 93
-  color: "#2D708E"
-
+badges: []
 
 # you can also provide color code instead of the color name
 # - type: soft-skill-indicator

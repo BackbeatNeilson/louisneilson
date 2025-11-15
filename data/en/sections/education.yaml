@@ -10,86 +10,191 @@ section:
   # hideTitle: true
 
 degrees:
-- name: BSocSci (Hons), Psychology
-  icon: fa-graduation-cap
-  timeframe: Feb 2025 - Present
-  institution:
-    name: South African College of Applied Psychology (SACAP)
-    url: ""
-    location: Pretoria Campus
-    # logo: /images/sections/education/sacap.png
-    # Can optionally show a different logo for dark theme
-    # darkLogo: /images/sections/education/sacap.png
-  # grade: #(optional)
-  #   scale: CGPA
-  #   achieved: 3.6
-  #   outOf: 4
-  # publications: #(optional)
-  # - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-  #   url: "#"
-  note: Honours in Psychology with a research project on AI tool usage and self-efficacy among tertiary students with ADHD in South Africa.
+  - name: BSocSci (Hons), Psychology
+    icon: fa-graduation-cap
+    timeframe: Feb 2025 - Present
+    institution:
+      name: South African College of Applied Psychology (SACAP)
+      url: "https://www.sacap.edu.za/"
+      location: Pretoria Campus
+      logo: https://www.sacap.edu.za/wp-content/themes/greenbox/svg/sacap.svg
+      # Can optionally show a different logo for dark theme
+      # darkLogo: /images/sections/education/sacap.png
+    takenCourses: true
+    showGrades: false
+    collapseAfter: 3
+    courses:
+      - name: Research Methodologies (RMA001)
+        achieved: 95.2
+        outOf: 100
+      - name: Theory and Practice of Psychopathology (TPP001)
+        achieved: 83.2
+        outOf: 100
+      - name: Ethics in Psychology (ETH006)
+        achieved: 93.6
+        outOf: 100
+      - name: Approaches to Diversity in Psychology (ADIV01)
+        achieved: 95.7
+        outOf: 100
+      - name: Psychological Assessment (PA0001)
+        achieved: tbd
+        outOf: 100
+      - name: Psychotherapeutic Models of Intervention (PMI001)
+        achieved: tbd
+        outOf: 100
+      - name: Research Thesis (RTHPSY)
+        achieved: tbd
+        outOf: 100
 
-- name: BSocSci, Psychology and Philosophy
-  icon: fa-graduation-cap
-  timeframe: Feb 2022 - Dec 2024
-  institution:
-    name: University of Cape Town
-    url: ""
-    location: Cape Town, South Africa
-    # logo: /images/sections/education/uct.jpg
-    # Can optionally show a different logo for dark theme
-    # darkLogo: /images/sections/education/uct.jpg
-  # grade: #(optional)
-  #   scale: CGPA
-  #   achieved: 3.5
-  #   outOf: 4
-  # takenCourses: #(optional)
-  #   # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
-  #   showGrades: true
-  #   collapseAfter: 3
-  #   courses:
-  #   - name: Data Structures and Algorithm
-  #     achieved: 3.75
-  #     outOf: 4
-  # publications: #(optional)
-  # - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-  #   url: "#"
-  # extracurricularActivities: #(optional)
-  # - In vitae facilisis est, eget porta sem.
-  # customSections: #(optional)
-  #   - name: Thesis
-  #     content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-  note: Undergraduate degree in Psychology and Philosophy.
+    # grade: #(optional)
+    #   scale: CGPA
+    #   achieved: 3.6
+    #   outOf: 4
+    # publications: #(optional)
+    # - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    #   url: "#"
+    note: Research project on AI tool usage and self-efficacy among tertiary students with ADHD in South Africa.
 
-- name: BA, Sound Production
-  icon: fa-music
-  timeframe: Feb 2014 - Dec 2016
-  institution:
-    name: SAE Institute
-    url: ""
-    location: Cape Town, South Africa
-    # logo: /images/sections/education/sae.png
-    # Can optionally show a different logo for dark theme
-    # darkLogo: /images/sections/education/sae.png
-  # grade: #(optional)
-  #   scale: GPA
-  #   achieved: 5
-  #   outOf: 5
-  # extracurricularActivities: #(optional)
-  # - In vitae facilisis est, eget porta sem.
-  note: Training in sound production, recording, and related audio technologies.
+  - name: BSocSci, Psychology and Philosophy
+    icon: fa-graduation-cap
+    timeframe: Feb 2022 - Dec 2024
+    institution:
+      name: University of Cape Town
+      url: "https://humanities.uct.ac.za/"
+      location: Cape Town, South Africa
+      logo: https://www.news.uct.ac.za/images/logo_white.png
+      # Can optionally show a different logo for dark theme
+      # darkLogo: /images/sections/education/uct.jpg
+    # grade: #(optional)
+    #   scale: CGPA
+    #   achieved: 3.5
+    #   outOf: 4
+    takenCourses: #(optional)
+    # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+    showGrades: false
+    collapseAfter: 3
+    courses:
+      - name: Mathematics 1000 (MAM1000W)
+      - name: Ethics (PHI1010S) *received class medal
+        achieved: 81
+        outOf: 100
+      - name: Introduction to Philosophy (PHI1024F)
+        achieved: 76
+        outOf: 100
+      - name: Critical Thinking (PHI1025F)
+      - name: Intro to Psychology Part 1 (PSY1004F)
+      - name: Intro to Psychology Part 2 (PSY1005S)
+      - name: Mathematical Statistics I (STA1006S)
+      - name: Philosophy of Psych & Mind (PHI2012F)
+      - name: Applied Ethics (PHI2037F)
+      - name: Great Philosophers (PHI2041S)
+      - name: Social & Developmental Psych (PSY2013F)
+      - name: Cognitive NeuroSc Abnorm Psych (PSY2014S)
+      - name: Research in Psychology I (PSY2015F)
+      - name: Research in Psychology II (PSY3007S)
+      - name: Word Power (SLL1002L)
+      - name: Words Deeds Bones & Things (ANS1400F)
+        achieved: 90
+        outOf: 100
+      - name: Social Informatics (LIS1000S)
+        achieved: 83
+        outOf: 100
+      - name: Logic and Language (PHI3023F)
+        achieved: 76
+        outOf: 100
+      - name: Metaphysics & Epistemology (PHI3024S)
+      - name: Critical Psychology (PSY3005F)
+      - name: Clinical Psychology II (PSY3011S)
+        achieved: 80
+        outOf: 100
+    # publications: #(optional)
+    # - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    #   url: "#"
+    extracurricularActivities: #(optional)
+      - In vitae facilisis est, eget porta sem.
+    # customSections: #(optional)
+    #   - name: Thesis
+    #     content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    # note: Undergraduate degree in Psychology and Philosophy.
 
-- name: Higher Diploma, Music Performance
-  icon: fa-music
-  timeframe: Sept 2010 - July 2011
-  institution:
-    name: Institute of Contemporary Music Performance (ICMP)
-    location: London, UK
-    # logo: /images/sections/education/icmp.png
-    # Can optionally show a different logo for dark theme
-    # darkLogo: /images/sections/education/icmp.png
-  # grade: #(optional)
-  #   scale: GPA
-  #   achieved: 4.5
-  #   outOf: 5
-  note: Specialist training in contemporary music performance.
+  - name: BA, Sound Production
+    icon: fa-music
+    timeframe: Feb 2014 - Dec 2016
+    institution:
+      name: SAE Institute
+      url: "https://www.sae.edu.za/campuses/cape-town/"
+      location: Cape Town, South Africa
+      logo: https://www.sae.edu.za/wp-content/uploads/2021/06/SAE-Horizontal-White.png
+      # Can optionally show a different logo for dark theme
+      # darkLogo: /images/sections/education/sae.png
+    takenCourses: #(optional)
+    showGrades: true
+    collapseAfter: 3
+    courses:
+      - name: Principles of Sound (BASP101)
+        achieved: 79
+        outOf: 100
+      - name: Introduction to Audio Technology (BASP102)
+      - name: Applied Music Theory (BASP103) *RPL
+      - name: Signal Processing (BASP104)
+      - name: Music Styles 1 (BASP105)
+        achieved: 93
+        outOf: 100
+      - name: Digital & Media Literacy (BASP106)
+        achieved: 72
+        outOf: 100
+      - name: MIDI & Electronic Music Production (BASP107)
+      - name: Digital Audio Production (BASP108)
+      - name: Music Styles 2 (BASP201)
+        achieved: 92
+        outOf: 100
+      - name: Studio Production (BASP202)
+      - name: Audio Post Production (BASP203)
+      - name: Creative Project 1 (BASP204)
+      - name: Role of Producers (BASP205)
+      - name: Acoustics (BASP206)
+      - name: Live Sound Production (BASP207)
+      - name: Academic Research & Writing (BASP208)
+      - name: Mastering & Media Preparation (BASP301)
+        achieved: 80
+        outOf: 100
+      - name: Advanced Studio Production (BASP302)
+        achieved: 76
+        outOf: 100
+      - name: Business & Legal Studies (BASP303)
+      - name: Creative Project 2 (BASP304)
+      - name: Marketing & Promotions (BASP305)
+        achieved: 74
+        outOf: 100
+      - name: Creative Project 3 (BASP306)
+        achieved: 86
+        outOf: 100
+      - name: Creative Project 4 (BASP307)
+      - name: Advanced Audio Post Production (BASP308)
+        achieved: 82
+        outOf: 100
+    # grade: #(optional)
+    #   scale: GPA
+    #   achieved: 5
+    #   outOf: 5
+    extracurricularActivities: #(optional)
+      - SRC (2014-2016)
+      - 48-hour film challenge (2015)
+    note: Training in recording, music production, and related audio technologies.
+
+  - name: Higher Diploma, Music Performance
+    icon: fa-music
+    timeframe: Sept 2010 - July 2011
+    institution:
+      name: Institute of Contemporary Music Performance (ICMP)
+      location: London, UK
+      url: "https://www.icmp.ac.uk/"
+      logo: https://www.icmp.ac.uk/sites/all/themes/icmp2/logo.png
+      # logo: /images/sections/education/icmp.png
+      # Can optionally show a different logo for dark theme
+      # darkLogo: /images/sections/education/icmp.png
+    # grade: #(optional)
+    #   scale: GPA
+    #   achieved: 4.5
+    #   outOf: 5
+    note: Bass guitar focus.
