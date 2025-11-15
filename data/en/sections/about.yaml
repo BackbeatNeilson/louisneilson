@@ -10,9 +10,9 @@ section:
 # your designation
 designation: Multidisciplinary Educator & Learning Designer
 # your company information
-company:
-  name: Freelance
-  url: ""
+# company:
+#  name: Freelance
+#  url: ""
 
 # your resume. this file path should be relative to you "static" directory
 # Dreprecated. Use resourceLinks instead.

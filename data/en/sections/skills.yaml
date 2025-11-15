@@ -22,73 +22,36 @@ skills:
     icon: fas fa-chalkboard-teacher
     summary: "Learning management and virtual learning environment expertise"
     categories: ["technical"]
-    details:
-      - Moodle
-      - D2L Brightspace (Amathuba)
-      - CanvasLMS
-      - Sakai
-      - FutureLearn
 
   - name: Authoring Tools
     icon: fas fa-pencil-ruler
     summary: "E-learning content creation and course development"
     categories: ["technical"]
-    details:
-      - Articulate Rise
-      - Articulate Storyline
-      - Canva
 
   - name: Design & Media
     icon: fas fa-palette
     summary: "Audio & music production, and multimedia production"
     categories: ["technical"]
-    details:
-      - Pro Tools
-      - Audacity
-      - Logic Pro X
-      - Studio One
-      - Ableton
-      - Adobe Photoshop
-      - DaVinci Resolve
-      - OBS Studio
 
   - name: Web Development
     icon: fas fa-code
     summary: "Front-end development and markup languages"
     categories: ["technical"]
-    details:
-      - HTML
-      - CSS
-      - JavaScript
-      - Markdown
-      - LaTeX
 
   - name: Development Tools
     icon: fas fa-tools
     summary: "Version control and development environments"
     categories: ["technical"]
-    details:
-      - GitHub
-      - VS Code
-      - RStudio
 
   - name: Data & Analysis Tools
     icon: fas fa-chart-bar
     summary: "Statistical analysis and data science tools"
     categories: ["technical"]
-    details:
-      - R
-      - Python
-      - Excel
 
   - name: Productivity Suites
     icon: fas fa-briefcase
     summary: "Office productivity and collaboration platforms"
     categories: ["technical"]
-    details:
-      - Microsoft 365
-      - Google Workspace
-      - LibreOffice
 
   # Academic Skills
   - name: Academic Writing & Editing (APA 7th ed.)
