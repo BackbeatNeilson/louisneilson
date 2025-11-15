@@ -126,7 +126,7 @@ degrees:
       # Can optionally show a different logo for dark theme
       # darkLogo: /images/sections/education/sae.png
     takenCourses:
-      showGrades: true
+      showGrades: false
       collapseAfter: 3
       courses:
         - name: Principles of Sound (BASP101)
