@@ -17,40 +17,40 @@ buttons:
     filter: "professional"
 
 skills:
-  # Technical Skills
+# Technical Skills
   - name: LMS & VLE Platforms
     icon: fas fa-chalkboard-teacher
-    summary: "Learning management and virtual learning environment expertise"
+    summary: "Moodle, D2L Brightspace (Amathuba), CanvasLMS, Sakai, FutureLearn"
     categories: ["technical"]
 
   - name: Authoring Tools
     icon: fas fa-pencil-ruler
-    summary: "E-learning content creation and course development"
+    summary: "Articulate Rise, Articulate Storyline, Canva"
     categories: ["technical"]
 
-  - name: Design & Media
+  - name: Audio & Multimedia
     icon: fas fa-palette
-    summary: "Audio & music production, and multimedia production"
+    summary: "Pro Tools, Audacity, Logic Pro X, Studio One, Ableton, Adobe Photoshop, DaVinci Resolve, OBS Studio"
     categories: ["technical"]
 
   - name: Web Development
     icon: fas fa-code
-    summary: "Front-end development and markup languages"
+    summary: "HTML, CSS, JavaScript, Markdown, LaTeX"
     categories: ["technical"]
 
   - name: Development Tools
     icon: fas fa-tools
-    summary: "Version control and development environments"
+    summary: "GitHub, VS Code, RStudio, jupyter Notebooks"
     categories: ["technical"]
 
   - name: Data & Analysis Tools
     icon: fas fa-chart-bar
-    summary: "Statistical analysis and data science tools"
+    summary: "R, Python, Excel"
     categories: ["technical"]
 
   - name: Productivity Suites
     icon: fas fa-briefcase
-    summary: "Office productivity and collaboration platforms"
+    summary: "Microsoft 365, Google Workspace, LibreOffice"
     categories: ["technical"]
 
   # Academic Skills
@@ -61,7 +61,7 @@ skills:
 
   - name: Data Interpretation & Synthesis
     icon: fas fa-chart-line
-    summary: "Quantitative and qualitative analysis for research contexts"
+    summary: "Quantitative and qualitative analysis and synthesis of research findings"
     categories: ["academic"]
 
   - name: Scoping & Literature Review
@@ -75,11 +75,6 @@ skills:
     categories: ["academic"]
 
   # Professional / Interpersonal Skills
-  - name: Teaching & Training
-    icon: fas fa-chalkboard-teacher
-    summary: "One-to-one tutoring in academic writing and psychological statistics"
-    categories: ["professional"]
-
   - name: Technical Communication
     icon: fas fa-comments
     summary: "Explaining complex concepts to non-experts"
@@ -87,7 +82,7 @@ skills:
 
   - name: Teaching & Training
     icon: fas fa-chalkboard-teacher
-    summary: "Instructional delivery and learner support"
+    summary: "One-on-one tutoring, didactic instruction, and learner support"
     categories: ["professional"]
 
   - name: Quality Control & Editing
