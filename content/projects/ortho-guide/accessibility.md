@@ -1,5 +1,6 @@
 ---
 title: "Accessibility"
+cover: "/images/guide/sigmund-4MoIpDcSlr4-unsplash.jpg"
 ---
 
 # 9. Accessibility

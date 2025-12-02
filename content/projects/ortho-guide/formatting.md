@@ -1,5 +1,6 @@
 ---
 title: "Formatting Conventions"
+cover: "/images/guide/ally-griffin-Afrou52SGRQ-unsplash.jpg"
 ---
 
 # 6. Formatting Conventions

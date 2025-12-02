@@ -1,28 +1,34 @@
 ---
 title: "Punctuation"
+cover: "/images/guide/towfiqu-barbhuiya-oZuBNC-6E2s-unsplash.jpg"
 ---
 
 # 4. Punctuation
 
-## Quotation marks
+## Quotation Marks
 Double quotation marks for full quotations.  
-Single quotation marks for nested quotations or isolated linguistic terms.  
+Single quotation marks for nested quotations or referenced terms.  
 Example: “Joe said, ‘Are you sure about that?’”.
 
-## Oxford comma
+## Oxford Comma
 Always used.
 
 ## Ampersand (&)
-Use “and” in all prose.  
-Use “&” only within list clauses to create internal pairings:  
-*shoes & coat, oranges, tutu, guns & ammunition, and a cake*.
+Use “and” in prose. Use “&” only to create internal sub-pairings.  
+Example: shoes & coat, oranges, tutu, guns & ammunition, and a cake.
 
-## Mathematical operators
-Use spacing around operators: *x + y = z*.  
-Prefer LaTeX or MathJax where available.
+## Mathematical Operators
+Use spacing around operators: x + y = z.  
+MathJax is first preference: https://www.mathjax.org/#gettingstarted  
+LaTeX is second preference.
 
-## Possessives and plurals
-Names ending in *s* take only an apostrophe: *Louis’ chair*.  
-Plurals do not use apostrophes: *As*, *Bs*, *1990s*.
+## Possessives and Plurals
+Names ending in s take only an apostrophe: Louis’ chair.  
+Plurals do not use apostrophes: As, Bs, 1990s.
+
+## Abbreviation Period Rule
+• If the abbreviation ends with the final letter of the full word, omit the period (Dr).  
+• If not, include the period (Prof.).  
+*et al.* retains the period on *al.* because it abbreviates *alii*.
 
 Return to the [manual index](./).
