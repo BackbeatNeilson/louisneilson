@@ -43,3 +43,16 @@ Use international currency codes rather than symbols.
 Examples: 100,000 ZAR instead of R100,000; 30 USD instead of $30; 400 EUR.
 
 Return to the [manual index](./).
+
+___
+
+# Licence
+
+This work is licensed under the Creative Commons Attribution–NonCommercial 4.0 International Licence (CC BY-NC 4.0).
+You may copy, adapt, and share the material for any non-commercial purpose, provided that appropriate credit is given.
+
+Full licence text: [https://creativecommons.org/licenses/by-nc/4.0/](https://creativecommons.org/licenses/by-nc/4.0/)
+
+## Commercial use:
+For-profit institutions must obtain explicit written permission before using or adapting this material.
+Enquiries: [hello@louisneilson.com](mailto:hello@louisneilson.com)
