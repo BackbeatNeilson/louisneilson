@@ -33,6 +33,6 @@ projects:
   # logo: /images/sections/projects/research.png
   role: Creator
   timeline: "2023–Present"
-  url: "/ortho-guide/_index.md"
+  url: "content/projects/ortho-guide/_index.md"
   summary: My personal orthography and style manual, a springboard for when projects lack one of their own.
   tags: ["learning-design"]
