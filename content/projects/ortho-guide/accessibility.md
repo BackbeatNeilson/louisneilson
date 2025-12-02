@@ -1,18 +1,19 @@
 ---
 title: "Accessibility"
-cover: "/images/guide/sigmund-4MoIpDcSlr4-unsplash.jpg"
+hero: "/images/guide/sigmund-4MoIpDcSlr4-unsplash.jpg"
 ---
 
-# 9. Accessibility
+# 1. Accessibility Standards
 
 ## WCAG
+Always aim to meet the latest WCAG double-A (AA) standards for publications.  
+Reference: https://www.w3.org/WAI/standards-guidelines/wcag/
 
-All public-facing materials must meet WCAG AA.  
-Single-A compliance is acceptable for documents intended solely for personal use.
+## Colour and Contrast
+WCAG 2.1 AA requires a minimum contrast ratio of **4.5:1** for standard text.
 
-## Colour and contrast
+Use the following tool for assistance:  
+[Venngage | Accessible color palette generator](https://venngage.com/tools/accessible-color-palette-generator)
 
-Ensure adequate contrast.  
-Do not rely on colour alone; use pattern, shape, or labels when encoding categories.
 
 Return to the [manual index](../).

@@ -1,6 +1,6 @@
 ---
 title: "Citation Practices"
-cover: "/images/guide/praveen-gupta-YhfxJpa_Ch0-unsplash.jpg"
+banner: "/images/guide/praveen-gupta-YhfxJpa_Ch0-unsplash.jpg"
 ---
 
 # 7. Citation and Reference Practices
