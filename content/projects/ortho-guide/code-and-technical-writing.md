@@ -1,7 +1,7 @@
 ---
 title: "Code and Technical Writing"
 weight: 9
-cover: "/images/guide/rob-wingate-LnzSzH24XS8-unsplash.jpg"
+hero: images/guide/rob-wingate-LnzSzH24XS8-unsplash.jpg
 ---
 
 # 9. Code and Technical Writing

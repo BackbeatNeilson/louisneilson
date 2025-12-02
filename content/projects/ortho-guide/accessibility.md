@@ -1,7 +1,7 @@
 ---
 title: "Accessibility"
-weight:
-hero: "/images/guide/sigmund-4MoIpDcSlr4-unsplash.jpg"
+weight: 1
+hero: images/guide/sigmund-4MoIpDcSlr4-unsplash.jpg
 ---
 
 # 1. Accessibility Standards

@@ -1,7 +1,7 @@
 ---
 title: "Spelling and Word Usage"
 weight: 2
-cover: "/images/guide/mika-baumeister-2X6bkiL0GDo-unsplash.jpg"
+hero: images/guide/mika-baumeister-2X6bkiL0GDo-unsplash.jpg
 ---
 
 # 2. Spelling and Word Usage

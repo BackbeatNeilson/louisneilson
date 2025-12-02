@@ -1,7 +1,7 @@
 ---
 title: "Typography and Symbols"
 weight: 3
-hero: "/images/guide/mika-baumeister-jRYWelZhhGg-unsplash.jpg"
+hero: images/guide/mika-baumeister-jRYWelZhhGg-unsplash.jpg
 ---
 
 # 3. Typography and Symbols

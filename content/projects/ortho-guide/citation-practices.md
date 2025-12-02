@@ -1,7 +1,7 @@
 ---
 title: "Citation Practices"
 weight: 8
-banner: "/images/guide/praveen-gupta-YhfxJpa_Ch0-unsplash.jpg"
+hero: images/guide/praveen-gupta-YhfxJpa_Ch0-unsplash.jpg
 ---
 
 # 8. Citation and Reference Practices

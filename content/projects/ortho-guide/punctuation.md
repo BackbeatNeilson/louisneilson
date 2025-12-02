@@ -1,7 +1,7 @@
 ---
 title: "Punctuation"
 weight: 5
-cover: "/images/guide/towfiqu-barbhuiya-oZuBNC-6E2s-unsplash.jpg"
+hero: images/guide/towfiqu-barbhuiya-oZuBNC-6E2s-unsplash.jpg
 ---
 
 # 5. Punctuation

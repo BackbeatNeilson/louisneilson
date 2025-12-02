@@ -1,7 +1,7 @@
 ---
 title: "Document Structure and Formatting"
 weight: 7
-cover: "/images/guide/ally-griffin-Afrou52SGRQ-unsplash.jpg"
+hero: images/guide/ally-griffin-Afrou52SGRQ-unsplash.jpg
 ---
 
 # 7. Document Structure and Formatting

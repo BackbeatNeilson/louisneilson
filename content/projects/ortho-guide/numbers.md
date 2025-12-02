@@ -1,7 +1,7 @@
 ---
 title: "Numbers"
 weight: 4
-cover: "/images/guide/jakub-zerdzicki-LgE3whpa5VA-unsplash.jpg"
+hero: images/guide/jakub-zerdzicki-LgE3whpa5VA-unsplash.jpg
 ---
 
 # 4. Numbers, Dates, and Measurement

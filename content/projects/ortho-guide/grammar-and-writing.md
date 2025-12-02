@@ -1,7 +1,7 @@
 ---
 title: "Grammar and Writing Style"
 weight: 6
-cover: "/images/guide/waldemar-brandt-U3Ptj3jafX8-unsplash.jpg"
+hero: images/guide/waldemar-brandt-U3Ptj3jafX8-unsplash.jpg
 ---
 
 
