@@ -8,37 +8,33 @@ title: "Code and Technical Writing"
 
 In R Markdown or Quarto, specify language using braces:
 
-```markdown
-```{r}
-# R code
-```
+\`\`\`{r}  
+\# R code  
+\`\`\`
 
-```{python}
-# Python code
-```
+\`\`\`{python}  
+\# Python code  
+\`\`\`
 
-```{html}
-<!-- HTML code -->
-```
-```
+\`\`\`{html}  
+\<!-- HTML code -->  
+\`\`\`
 
 In plain Markdown, specify language without braces:
 
-```markdown
-```r
-# R code
-```
+\`\`\`r  
+\# R code  
+\`\`\`
 
-```python
-# Python code
-```
+\`\`\`python  
+\# Python code  
+\`\`\`
 
-```html
-<!-- HTML code -->
-```
-```
+\`\`\`html  
+\<!-- HTML code -->  
+\`\`\`
 
-`Inline code` should be marked consistently.
+`Inline code` should be \`marked\` consistently.
 
 ## Variable naming
 
@@ -47,12 +43,12 @@ Use underscores mainly for filenames.
 
 ## Mathematical expressions
 
-Render using MathJax or LaTeX when supported.  
+Render using [MathJax](https://www.mathjax.org/) or LaTeX when supported.  
 Otherwise use clear text with proper spacing and typographic symbols.
 
 ## Acronym expansion
 
 Expand acronyms on first use (e.g., Attention Deficit/Hyperactivity Disorder (ADHD)).  
-Use `<abbr>` in HTML when supported.
+Use `<abbr>` in HTML when or similar tools where supported.
 
 Return to the [manual index](../).
