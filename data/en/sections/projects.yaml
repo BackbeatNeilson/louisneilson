@@ -16,14 +16,23 @@ buttons:
   filter: "research"
 - name: Psychology
   filter: "psychology"
+- name: Learning Design
+  filter: "learning-design"
 
 # your projects
 projects:
 - name: Honours Research Thesis
   # logo: /images/sections/projects/research.png
   role: Researcher
-  timeline: "2025 - Present"
+  timeline: "2025–Present"
   # repo: https://github.com/username/repo # If your project is a public repo on GitHub, then provide this link. it will show star count.
   #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
   summary: Ongoing honours research investigating the relationship between AI tool usage and self-efficacy among tertiary students with ADHD in South Africa.
   tags: ["research", "psychology", "ai", "adhd"]
+- name: Orthography Guide
+  # logo: /images/sections/projects/research.png
+  role: Creator
+  timeline: "2023–Present"
+  url: "/ortho-guide/"
+  summary: My personal orthography and style manual, a springboard for when projects lack one of their own.
+  tags: ["learning-design"]
