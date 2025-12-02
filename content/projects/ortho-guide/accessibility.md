@@ -1,5 +1,6 @@
 ---
 title: "Accessibility"
+weight:
 hero: "/images/guide/sigmund-4MoIpDcSlr4-unsplash.jpg"
 ---
 

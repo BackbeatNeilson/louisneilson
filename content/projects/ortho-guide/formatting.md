@@ -1,28 +1,20 @@
 ---
-title: "Formatting Conventions"
+title: "Document Structure and Formatting"
+weight: 7
 cover: "/images/guide/ally-griffin-Afrou52SGRQ-unsplash.jpg"
 ---
 
-# 6. Formatting Conventions
+# 7. Document Structure and Formatting
 
 ## Paragraphing
-Use indented paragraphs rather than block spacing.
+Use indented paragraphs rather than spaced block paragraphs.
 
-## Block quotes
-Block quotes longer than forty words appear as APA-style indented blocks without quotation marks.  
-In Markdown, use “>” but rely on CSS or rendering rules so that the visual result matches APA styling.  
-Callouts may be used as needed.
+## Block Quotes
+Block quotes longer than forty words appear without quotation marks and are rendered APA-style.  
+In Markdown, “>” may be used but should be styled to resemble APA formatting.  
+Callouts (e.g., GitHub `[!NOTE]`) are acceptable where appropriate.
 
-## Preferred authoring environment order
-1. Plain text  
-2. Markdown  
-3. R  
-4. Python  
-5. JavaScript  
-6. HTML/CSS  
-7. Other formats
-
-## Formal structures
-Provide set notation or syllogistic forms after the prose argument when conceptually appropriate.
+## Formal Structures
+Provide set notation or syllogistic structures after the prose discussion when conceptually appropriate
 
 Return to the [manual index](./).

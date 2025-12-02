@@ -1,9 +1,10 @@
 ---
 title: "Code and Technical Writing"
+weight: 9
 cover: "/images/guide/rob-wingate-LnzSzH24XS8-unsplash.jpg"
 ---
 
-# 8. Code and Technical Writing
+# 9. Code and Technical Writing
 
 ## Code block formatting
 
@@ -45,7 +46,8 @@ Use underscores mainly for spaces in filenames.
 ## Mathematical expressions
 
 Render using [MathJax](https://www.mathjax.org/) where possible, else LaTeX when supported.  
-Otherwise use clear text with proper spacing and typographic symbols.
+Otherwise use clear text with proper spacing and typographic symbols. See also: [Punctuation → Mathematical Operators](../punctuation/#mathematical-operators).
+
 
 ## Acronym expansion
 

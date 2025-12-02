@@ -1,6 +1,7 @@
 ---
 title: "Typography and Symbols"
-cover: "/images/guide/mika-baumeister-jRYWelZhhGg-unsplash.jpg"
+weight: 3
+hero: "/images/guide/mika-baumeister-jRYWelZhhGg-unsplash.jpg"
 ---
 
 # 3. Typography and Symbols
@@ -29,14 +30,14 @@ Used for emphatic parenthetical insertions and clause-level clarifications. Neve
 Use the multiplication sign rather than the letter x for mathematical notation.
 
 ## Minus Sign "−"
-Unicode: `U+2212`  
+No alt code exists. Unicode: `U+2212`  
 Preferred mathematical minus sign.
 
 ## Slash Compounds
 The forward slash denotes alternation (or).  
 Correct usage: and/or; input/output.  
 Incorrect for relational meaning: student/teacher → use student-teacher instead.  
-See also *Grammar and Writing Style → Slash Compounds in Prose*.
+See also: [Grammar and Writing Style → Slash Compounds in Prose](../grammar-and-writing/#slash-compounds-in-prose).
 
 ## Bold and Italics
 Bold is the only accepted form of emphasis.  

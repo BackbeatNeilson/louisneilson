@@ -1,10 +1,11 @@
 ---
 title: "Grammar and Writing Style"
+weight: 6
 cover: "/images/guide/waldemar-brandt-U3Ptj3jafX8-unsplash.jpg"
 ---
 
 
-# 5. Grammar and Writing Style
+# 6. Grammar and Writing Style
 
 ## Pronouns
 Use they as the default singular pronoun unless the person’s gender is explicitly known and relevant; i.e., instead of “he/she” say “they”.
@@ -25,5 +26,9 @@ Provide dictionary definitions only when explicitly requested.
 Lists are acceptable when they enhance clarity.  
 Numbered lists indicate sequence; bulleted lists indicate unordered sets.  
 List items wrap naturally under their own indent.
+
+## Latin Abbreviations
+Latin abbreviations are treated as natural English.  
+Follow the [Abbreviation Period Rule](../punctuation/#abbreviation-period-rule) in the Punctuation section.
 
 Return to the [manual index](./).

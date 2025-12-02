@@ -1,5 +1,6 @@
 ---
 title: "Spelling and Word Usage"
+weight: 2
 cover: "/images/guide/mika-baumeister-2X6bkiL0GDo-unsplash.jpg"
 ---
 
@@ -18,7 +19,7 @@ Words that have become established in English, such as café, naïve, fiancé, a
 
 ## Non-English Words in Prose
 All non-English words embedded in prose are italicised every time they appear.  
-See also: *Typography and Symbols → Bold and Italics*.
+See also: [Typography and Symbols → Bold and Italics](../typography-and-symbols/#bold-and-italics).
 
 ## Capitalisation
 Follow APA 7th for title case except that all prepositions remain lowercase, regardless of length.  

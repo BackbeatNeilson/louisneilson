@@ -1,9 +1,10 @@
 ---
 title: "Numbers"
+weight: 4
 cover: "/images/guide/jakub-zerdzicki-LgE3whpa5VA-unsplash.jpg"
 ---
 
-# 3. Numbers, Dates, and Measurement
+# 4. Numbers, Dates, and Measurement
 
 ## Words vs Numerals
 Write out one through ten unless immediately followed by a unit or symbol.  
