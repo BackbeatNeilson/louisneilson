@@ -1,5 +1,6 @@
 ---
 title: "Louis Neilson Orthography and Style Manual"
+url: "/ortho-guide/"
 ---
 
 # Louis Neilson Orthography and Style Manual
