@@ -1,6 +1,6 @@
 ---
 title: Theme Exemplars
-_build:
+build:
   list: never
   render: always
 ---

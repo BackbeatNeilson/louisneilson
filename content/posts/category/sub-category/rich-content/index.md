@@ -2,12 +2,15 @@
 title: "Rich Content"
 date: 2020-06-08T08:06:25+06:00
 description: Sample post with multiple images, embedded video etc.
-menu:
-  sidebar:
-    name: Rich Content
-    identifier: rich-content
-    parent: sub-category
-    weight: 10
+build:
+  list: never
+  render: always
+#menu:
+#  sidebar:
+#    name: Rich Content
+#    identifier: rich-content
+#    parent: sub-category
+#    weight: 10
 hero: images/forest.jpg
 tags:
 - Markdown
@@ -31,7 +34,7 @@ This sample post tests the followings:
 
 ### Tweet Sample
 
-{{< tweet user="SanDiegoZoo" id="1453110110599868418" >}}
+{{< x user="SanDiegoZoo" id="1453110110599868418" >}}
 
 {{< vs >}}
 

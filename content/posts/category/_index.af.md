@@ -1,6 +1,6 @@
 ---
 title: Top Category Sample
-_build:
+build:
   list: never
   render: always
 ---

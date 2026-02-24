@@ -2,11 +2,15 @@
 title: "Markdown Samples"
 date: 2020-06-08T08:06:25+06:00
 description: Markdown rendering samples
-menu:
-  sidebar:
-    name: Markdown Sample
-    identifier: markdown
-    weight: 30
+title: Theme Exemplars
+build:
+  list: never
+  render: always
+#menu:
+#  sidebar:
+#    name: Markdown Sample
+#    identifier: markdown
+#    weight: 30
 author:
   name: Louis
   image: /images/author/louis.png

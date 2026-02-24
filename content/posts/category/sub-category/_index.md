@@ -1,9 +1,12 @@
 ---
 title: Sub-Category
-menu:
-  sidebar:
-    name: Sub-Category
-    identifier: sub-category
-    parent: category
-    weight: 10
+build:
+  list: never
+  render: always
+#menu:
+#  sidebar:
+#    name: Sub-Category
+#    identifier: sub-category
+#    parent: category
+#    weight: 10
 ---
