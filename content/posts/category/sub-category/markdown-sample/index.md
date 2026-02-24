@@ -1,8 +1,6 @@
 ---
 title: "Markdown Samples"
 date: 2020-06-08T08:06:25+06:00
-description: Markdown rendering samples
-title: Theme Exemplars
 build:
   list: never
   render: always
