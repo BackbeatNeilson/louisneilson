@@ -2,6 +2,12 @@
 title: "Grammar and Writing Style"
 weight: 6
 hero: images/guide/waldemar-brandt-U3Ptj3jafX8-unsplash.jpg
+menu:
+  sidebar:
+    name: Grammar and Writing Style
+    identifier: ortho-grammar
+    parent: ortho
+    weight: 60
 ---
 
 

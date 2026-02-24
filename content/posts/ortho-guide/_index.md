@@ -4,7 +4,7 @@ url: "/ortho-guide/"
 menu:
   sidebar:
     name: Orthography Guide
-    identifier: category
+    identifier: ortho
     weight: 10
 ---
 

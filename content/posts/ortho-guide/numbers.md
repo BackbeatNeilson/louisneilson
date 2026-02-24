@@ -2,6 +2,13 @@
 title: "Numbers"
 weight: 4
 hero: images/guide/jakub-zerdzicki-LgE3whpa5VA-unsplash.jpg
+menu:
+  sidebar:
+    name: Numbers
+    identifier: ortho-numbers
+    parent: ortho
+    weight: 40
+math: true
 ---
 
 # 4. Numbers, Dates, and Measurement

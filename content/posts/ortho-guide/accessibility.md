@@ -2,6 +2,12 @@
 title: "Accessibility"
 weight: 1
 hero: images/guide/sigmund-4MoIpDcSlr4-unsplash.jpg
+menu:
+  sidebar:
+    name: Accessibility
+    identifier: ortho-accessibility
+    parent: ortho
+    weight: 10
 ---
 
 # 1. Accessibility Standards

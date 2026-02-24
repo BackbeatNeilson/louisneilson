@@ -4,7 +4,7 @@ url: "/cheat-sheets/"
 menu:
   sidebar:
     name: Cheat Sheets
-    identifier: category
+    identifier: cheat
     weight: 20
 ---
 

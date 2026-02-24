@@ -2,12 +2,16 @@
 title: "SQL Operators Cheatsheet"
 # weight: 1
 # hero: images/guide/sigmund-4MoIpDcSlr4-unsplash.jpg
+menu:
+  sidebar:
+    name: SQL Operators
+    identifier: sql
+    parent: cheat
+    weight: 10
+math: true
 ---
-# SQL Operators Cheatsheet
 
 Content adapted from [W3Schools](https://www.w3schools.com/sql/sql_operators.asp). 
-
-# SQL Operators Cheatsheet
 
 ## Comparison Operators
 

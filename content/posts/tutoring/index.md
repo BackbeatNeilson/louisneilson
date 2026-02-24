@@ -1,13 +1,12 @@
 ---
 title: "Tutoring Services"
 description: Private tutoring and academic support for psychology students
-menu:
-  sidebar:
-    name: Tutoring Services
-    identifier: tutoring
-    weight: 90
-hero: whiteboard.webp
-mermaid: true
+# menu:
+#  sidebar:
+#    name: Tutoring Services
+#    identifier: tutoring
+#    weight: 90
+# hero: whiteboard.webp
 ---
 
 I regularly provide private tutoring and academic proof-reading services to psychology students.

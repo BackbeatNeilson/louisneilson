@@ -2,6 +2,12 @@
 title: "Spelling and Word Usage"
 weight: 2
 hero: images/guide/mika-baumeister-2X6bkiL0GDo-unsplash.jpg
+menu:
+  sidebar:
+    name: Spelling and Word Usage
+    identifier: ortho-spelling
+    parent: ortho
+    weight: 20
 ---
 
 # 2. Spelling and Word Usage

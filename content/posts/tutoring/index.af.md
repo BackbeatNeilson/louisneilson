@@ -1,12 +1,11 @@
 ---
 title: "Tutoring Services"
 description: Private tutoring and academic support for psychology students
-menu:
-  sidebar:
-    name: Tutoring Services
-    identifier: tutoring
-    weight: 90
-mermaid: true
+# menu:
+#  sidebar:
+#    name: Tutoring Services
+#    identifier: tutoring
+#    weight: 90
 ---
 
 Ek verskaf gereeld privaatonderrig en akademiese proefleesdienste aan studente in sielkunde en ander sosiale wetenskappe.

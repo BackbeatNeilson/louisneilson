@@ -2,6 +2,12 @@
 title: "Punctuation"
 weight: 5
 hero: images/guide/towfiqu-barbhuiya-oZuBNC-6E2s-unsplash.jpg
+menu:
+  sidebar:
+    name: Punctuation
+    identifier: ortho-punctuation
+    parent: ortho
+    weight: 50
 ---
 
 # 5. Punctuation

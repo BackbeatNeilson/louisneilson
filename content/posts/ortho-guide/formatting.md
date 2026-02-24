@@ -2,6 +2,12 @@
 title: "Document Structure and Formatting"
 weight: 7
 hero: images/guide/ally-griffin-Afrou52SGRQ-unsplash.jpg
+menu:
+  sidebar:
+    name: Document Structure and Formatting
+    identifier: ortho-formatting
+    parent: ortho
+    weight: 70
 ---
 
 # 7. Document Structure and Formatting

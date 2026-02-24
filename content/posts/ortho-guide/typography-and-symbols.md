@@ -2,6 +2,12 @@
 title: "Typography and Symbols"
 weight: 3
 hero: images/guide/mika-baumeister-jRYWelZhhGg-unsplash.jpg
+menu:
+  sidebar:
+    name: Typography
+    identifier: ortho-typography
+    parent: ortho
+    weight: 30
 ---
 
 # 3. Typography and Symbols

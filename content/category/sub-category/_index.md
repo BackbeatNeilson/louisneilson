@@ -1,8 +1,5 @@
 ---
 title: Sub-Category
-build:
-  list: never
-  render: always
 #menu:
 #  sidebar:
 #    name: Sub-Category

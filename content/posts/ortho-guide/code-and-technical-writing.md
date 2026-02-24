@@ -2,6 +2,14 @@
 title: "Code and Technical Writing"
 weight: 9
 hero: images/guide/rob-wingate-LnzSzH24XS8-unsplash.jpg
+menu:
+  sidebar:
+    name: Technical and Code-Related Conventions
+    identifier: ortho-technical
+    parent: ortho
+    weight: 90
+math: true
+mermaid: true
 ---
 
 # 9. Code and Technical Writing

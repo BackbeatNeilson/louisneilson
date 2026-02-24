@@ -2,6 +2,12 @@
 title: "Citation Practices"
 weight: 8
 hero: images/guide/praveen-gupta-YhfxJpa_Ch0-unsplash.jpg
+menu:
+  sidebar:
+    name: Citation and Reference Practices
+    identifier: ortho-citation
+    parent: ortho
+    weight: 80
 ---
 
 # 8. Citation and Reference Practices
