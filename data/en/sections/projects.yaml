@@ -18,6 +18,8 @@ buttons:
   filter: "psychology"
 - name: Learning Design
   filter: "learning-design"
+- name: Data
+  filter: "data"
 
 # your projects
 projects:
@@ -31,8 +33,17 @@ projects:
   tags: ["research", "psychology"]
 - name: Orthography Guide
   # logo: /images/sections/projects/research.png
-  role: Creator
+  role: Creator/Maintainer
   timeline: "2023–Present"
-  url: "/ortho-guide/"
+  url: "/posts/ortho-guide/"
   summary: My personal orthography and style manual, a springboard for when projects lack one of their own. This work is licensed under the Creative Commons Attribution–NonCommercial 4.0 International Licence (CC BY-NC 4.0). You may copy, adapt, and share the material for any non-commercial purpose, provided that appropriate credit is given.
   tags: ["learning-design"]
+- name: Cheat Sheets
+  # logo: /images/sections/projects/research.png
+  role: Author
+  timeline: "2026–Present"
+  url: "/posts/cheat-sheets/"
+  # repo: https://github.com/username/repo # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: I create various cheats for myself and thought they might be useful to others.
+  tags: ["research", "data", "learning-design"]

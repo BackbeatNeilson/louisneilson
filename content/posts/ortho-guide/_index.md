@@ -1,6 +1,11 @@
 ---
 title: "Louis Neilson Orthography and Style Manual"
 url: "/ortho-guide/"
+menu:
+  sidebar:
+    name: Orthography Guide
+    identifier: category
+    weight: 10
 ---
 
 # Louis Neilson Orthography and Style Manual
