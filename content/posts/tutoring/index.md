@@ -5,7 +5,7 @@ menu:
   sidebar:
     name: Tutoring Services
     identifier: tutoring
-    weight: 40
+    weight: 90
 hero: whiteboard.webp
 mermaid: true
 ---

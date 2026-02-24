@@ -1,8 +1,6 @@
 ---
 title: Theme Exemplars
-menu:
-  sidebar:
-    name: Category
-    identifier: category
-    weight: 20
+_build:
+  list: never
+  render: always
 ---
